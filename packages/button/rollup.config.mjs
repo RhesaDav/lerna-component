@@ -23,7 +23,7 @@ export default [
       resolve(),
       commonjs(),
       peerDepsExternal(),
-      typescript({ tsconfig: "./tsconfig.json" }),
+      typescript({ tsconfig: "../../tsconfig.json" }),
     ],
   },
   {
