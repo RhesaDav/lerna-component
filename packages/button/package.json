@@ -1,0 +1,19 @@
+{
+  "name": "@rhesadav/button",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "RhesaDav <rhesa.davinanto@ids.id>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "src/Button.tsx",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/button.test.js"
+  }
+}
