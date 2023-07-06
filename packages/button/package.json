@@ -1,5 +1,5 @@
 {
-  "name": "@rhesadav/button",
+  "name": "rhesalerna-button",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "RhesaDav <rhesa.davinanto@ids.id>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/button.test.js"
-  }
+  },
+  "gitHead": "11fbcc726a5d303897fdacf263527f896f0230d9"
 }
