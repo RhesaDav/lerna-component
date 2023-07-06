@@ -24,5 +24,11 @@
     "@mui/material": "^5.13.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
+  "types": "lib/index.d.ts"
 }
